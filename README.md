@@ -19,4 +19,4 @@ Time spent: `12`
    - [x] Clicking on the "Search" button should dismiss the filters page and trigger the search w/ the new filter settings.
    - [x] Display some of the available Yelp categories (choose any 3-4 that you want).
 
-
+![yelp](https://cloud.githubusercontent.com/assets/10636391/6055586/54af87de-acb7-11e4-8110-67ecb45e32ec.gif)
